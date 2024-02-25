@@ -189,3 +189,5 @@ cd ..
 ls --color=auto
 rm header.jpeg
 rm header.png
+__vsc_prompt_cmd_original
+rm footer.jpeg
