@@ -332,3 +332,4 @@ cd ..
 ls --color=auto
 mv website website-boilerpalte
 mv website-boilerpalte website-boilerplate
+ls --color=auto
