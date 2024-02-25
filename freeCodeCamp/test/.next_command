@@ -341,3 +341,5 @@ cp -r toms-website
 ls --color=auto
 cp -r website-boilerplate toms-website
 ls --color=auto
+find
+find toms-website
