@@ -148,3 +148,5 @@ ls --color=auto
 touch .gitignore
 __vsc_prompt_cmd_original
 ls --color=auto
+ls --color=auto --hllp
+ls --color=auto --help
