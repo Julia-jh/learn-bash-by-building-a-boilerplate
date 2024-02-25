@@ -305,3 +305,4 @@ __vsc_prompt_cmd_original
 find ./client/assets/fonts
 touch ./client/assets/fonts/lato-bold.ttf
 touch ./client/assets/fonts/lato-light.ttf
+find
