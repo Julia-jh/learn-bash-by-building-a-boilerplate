@@ -294,3 +294,5 @@ ls --color=auto
 mv CodeAlly.svg ./client/assets/icons
 fond
 find
+mv CodeRoad.svg ./clinet/assets/icons
+mv CodeRoad.svg ./client/assets/icons
