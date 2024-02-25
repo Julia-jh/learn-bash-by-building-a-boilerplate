@@ -281,3 +281,14 @@ rmdir images
 ls --color=auto
 mkdir ./client/asssets/icons
 mkdir ./client/assets/icons
+mv CodeAlly.svg ./clinet/assets.icons
+mv CodeAlly.svg ./client/assets.icons
+mv CodeAlly.svg ./client/assets/icons
+find
+cd client
+ls --color=auto
+rm assets.icons
+cd ..
+touch CodeAlly.svg
+ls --color=auto
+mv CodeAlly.svg ./client/assets/icons
