@@ -158,3 +158,4 @@ cd website
 touch background.jpg
 touch header.png
 touch footer.jpeg
+ls --color=auto
