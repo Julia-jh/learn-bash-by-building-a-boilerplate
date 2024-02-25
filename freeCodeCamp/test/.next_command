@@ -208,3 +208,5 @@ __vsc_prompt_cmd_original
 mkdir client
 midir client/src
 mkdir client/src
+mv index.tml client/src
+mv index.html client/src
