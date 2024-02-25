@@ -210,3 +210,4 @@ midir client/src
 mkdir client/src
 mv index.tml client/src
 mv index.html client/src
+find
