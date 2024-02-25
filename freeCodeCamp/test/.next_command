@@ -152,3 +152,7 @@ ls --color=auto --hllp
 ls --color=auto --help
 ls --color=auto -a
 cd .
+cd ..
+cd .
+cd website
+touch background.jpg
