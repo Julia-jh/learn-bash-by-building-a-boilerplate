@@ -238,3 +238,6 @@ mkdir assets
 cd ..
 find
 cd client/assets
+mv images assets
+mv /images assets
+mkdir images
