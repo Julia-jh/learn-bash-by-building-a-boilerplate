@@ -224,3 +224,11 @@ find src
 find client/ src
 find -name src
 find
+mv fonts client
+mv images client
+find
+mv /client/images .
+mv client/images .
+find
+mv client/fonts .
+cd client
