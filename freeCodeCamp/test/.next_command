@@ -252,3 +252,5 @@ cd ../../..
 __vsc_prompt_cmd_original
 cd /workspace/project/website/client/assets/images
 cd ../../..
+find
+cd images
