@@ -254,3 +254,4 @@ cd /workspace/project/website/client/assets/images
 cd ../../..
 find
 cd images
+ls --color=auto
