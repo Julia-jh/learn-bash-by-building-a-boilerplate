@@ -243,3 +243,12 @@ mv /images assets
 mkdir images
 cd images
 touch background.jpg
+pwd
+cd ....
+cd ../../../..
+cd website
+cd client/assets/images
+cd ../../..
+__vsc_prompt_cmd_original
+cd /workspace/project/website/client/assets/images
+cd ../../..
