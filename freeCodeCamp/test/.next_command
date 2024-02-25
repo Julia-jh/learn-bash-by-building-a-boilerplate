@@ -146,3 +146,5 @@ touch index.js
 mkdir .gitignore
 ls --color=auto
 touch .gitignore
+__vsc_prompt_cmd_original
+ls --color=auto
