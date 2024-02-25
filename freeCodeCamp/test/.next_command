@@ -241,3 +241,4 @@ cd client/assets
 mv images assets
 mv /images assets
 mkdir images
+cd images
