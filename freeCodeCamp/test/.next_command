@@ -336,3 +336,7 @@ ls --color=auto
 copy --help
 copy -help
 cp --help
+__vsc_prompt_cmd_original
+cp -r toms-website
+ls --color=auto
+cp -r website-boilerplate toms-website
