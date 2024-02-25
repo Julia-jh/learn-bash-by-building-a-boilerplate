@@ -343,3 +343,8 @@ cp -r website-boilerplate toms-website
 ls --color=auto
 find
 find toms-website
+find
+ls --color=auto
+find website-biolerplate
+find ./website-biolerplate
+find ./website-boilerplate
