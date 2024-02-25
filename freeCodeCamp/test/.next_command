@@ -235,3 +235,6 @@ cd client
 ls --color=auto
 find
 mkdir assets
+cd ..
+find
+cd client/assets
