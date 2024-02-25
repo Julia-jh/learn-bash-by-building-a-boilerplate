@@ -279,3 +279,5 @@ rm . /images/background.jpg
 rm ./images/background.jpg
 rmdir images
 ls --color=auto
+mkdir ./client/asssets/icons
+mkdir ./client/assets/icons
