@@ -232,3 +232,6 @@ mv client/images .
 find
 mv client/fonts .
 cd client
+ls --color=auto
+find
+mkdir assets
